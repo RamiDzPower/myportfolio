@@ -1,0 +1,91 @@
+<?php
+
+$lang = array();
+$lang['ENTER_NAME'] = 'Please enter your name';
+$lang['ENTER_MAIL'] = 'Please enter your email adress';
+$lang['ENTER_MAIL_CORRECT'] = 'Please enter a valid email adress';
+$lang['ENTER_MSG'] = 'Please enter your message';
+$lang['SUCCESS_MSG'] = 'Your message has been sent successfully. Thank you';
+$lang['ERROR_MSG'] = 'Sorry an error occurred while sending. Your message has not been sent. Please try again.';
+$lang['HOME'] = 'Home';
+$lang['WHO_IAM'] = 'Who am I';
+$lang['WHO_IAM_DEC'] = 'The truth is...I am Iron Man';
+$lang['SKILLS'] = 'skills';
+$lang['WORK'] = 'work';
+$lang['TESTIMONIAL'] = 'Testimonial';
+$lang['TESTI_DESC'] = 'What do they say about me ?';
+$lang['CONTACT'] = 'Contact';
+$lang['DOWNLOAD_CV'] = 'Download Resume';
+$lang['HEADER_TOP_1'] = 'Hello World';
+$lang['JE_SUIS'] = 'I am Rami';
+$lang['ET_JE_SUIS'] = 'I am';
+$lang['PAGE_TITLE'] = 'Im so happy to have you here, be the welcome';
+$lang['PARA'] = 'I designed this site so you can get to know me on a personal level.<br>My career, my portfolio, and so much more.<br>So please sit back and enjoy!';
+$lang['SERVICES'] = 'What I offer';
+$lang['SERVICES_DESC'] = 'I create beautiful & functional websites for different types of businesses';
+$lang['SPECIALIZING'] = 'Specializing in the development of HTML5, CSS3, Responsive and WordPress websites using valid and semantic coding practices.';
+$lang['HIGH_CODE'] = 'High coding quality';
+$lang['AIM_TO_WRITE'] = 'I aim to write the most beautiful code possible. My HTML5 is validated and search engine optimized, WordPress sites are easily updatable and everything is beautifully responsive.';
+$lang['SOCIAL_MEDIA'] = 'Social Media';
+$lang['SOCIAL_IMPORTANT'] = 'It’s important to keep your brand consistent and recognizable across all platforms';
+
+$lang['PROJECT_OVERVIEW'] = 'Project Overview';
+$lang['PROJECT_DECR_1'] = 'A designer who doesn’t have his own website is like a chef who doesn’t have his own kitchen.';
+$lang['PROJECT_DECR_2'] = 'Early 2015, I started brainstorming new ideas, sketching, and planning. I could have done something quick and simple. But as a challenge to myself, I wanted to design something that encompasses every aspect of me. I took the hard decision and chalange to build it from the scratch without using any framework or CMS. Roughly a couple of months later, working only weekends, I was finished. And oh, so proud.';
+
+$lang['GET_IN_TOUCH'] = 'Just Get In Touch!';
+$lang['YOUR_NAME'] = 'Your Name';
+$lang['YOUR_EMAIL'] = 'Email Adress';
+$lang['YOUR_MSG'] = 'Message';
+$lang['ENTER_MSG'] = 'Please enter your message here';
+$lang['SUBMIT'] = 'Submit';
+$lang['SHARING_LINKS'] = 'Let’s share the love';
+$lang['VIEWMORE'] = 'View More';
+$lang['SKILLS'] = 'Skills';
+$lang['PROUDSKILLS'] = 'These are the skills I’m most proud of';
+$lang['LATEST_WORK'] = 'Latest Work';
+$lang['WORK_DESC'] = 'Latest Work';
+$lang['TIMELINE'] = 'Time Line';
+$lang['TIME_SUB'] = 'Life goes on';
+$lang['CAN_DO_P1'] = 'I’ d love to bring your design ideas to life. I have a passion for creating beautiful, intuitive responsive websites for projects both large and small that work on any type and size of device.';
+$lang['CAN_DO_P2'] = 'If you need more than just interface design Youandigraphics can deliver complete digital products from start to finish. I can also help with branding and print needs such as logo design and business cards or stationery.';
+$lang['CAN_DO_P3'] = 'Whatever project you have in mind do get in touch and we will work on it together. I am available for freelance, contract or direct client projects, so do ';
+$lang['CAN_DO_SCROLL'] = 'drop me a message.';
+$lang['HEAR_FROM_YOU'] = 'I would love to hear from you, so whether you need a quote, have a question or just want to say hello, please feel free to drop me a line.';
+
+$lang['SEE_ALL'] = 'See All'; 
+
+$lang['TESTIMONIAL_YOANN'] = 'Rami has been a very good worker since the day I recruited him til the day I left the company. He has always been a very good listener, ready to provide his insights and add-ons to constantly improve his own work and colleague’s';
+$lang['TESTIMONIAL_STEVE'] = 'Rami is a talented developer and great to work with. Not only is he an amazing designer, but he has ingenious web skills with an eye for detail. Rami is very innovative and always looking for new solutions and fresh ideas that can advance his knowledge to exceed his client’s expectations and goals.' ;
+
+$lang['CHEZ'] = 'at';
+$lang['MADE_WITH'] = 'Made with';
+$lang['ALL_WORK'] = 'All';
+$lang['FRONT_WORK'] = 'Front end';
+$lang['BACK_WORK'] = 'Back end';
+$lang['GRAPHIC_WORK'] = 'Graphic Design';
+$lang['WHAT_WE_DID'] = 'what was done';
+$lang['THE_BRIEF'] = 'The Brief';
+$lang['APPROACH'] = 'Approach';
+$lang['RESULTS'] = 'Result';
+$lang['TECHNO_USED'] = 'Technologies used';
+$lang['BROWSER_COMPTA'] = 'Browser Compatibility';
+$lang['FIRST_WORK'] = 'Z Estate';
+$lang['FIRST_WORK_SHORT_DSC'] = 'Rent, Buy or Sell a property';
+$lang['FIRST_WORK_CATEGORY'] = 'Real estate';
+$lang['SECOND_WORK'] = 'Z Estate Brochure Program';
+$lang['SECOND_WORK_SHORT_DSC'] = 'Manage proporties’ stock and customers';
+$lang['SECOND_WORK_CATEGORY'] = 'Customer management';
+$lang['THIRD_WORK'] = 'Rami Portfolio';
+$lang['THIRD_WORK_SHORT_DSC'] = 'My job, my career, my passion';
+$lang['THIRD_WORK_CATEGORY'] = 'Tchnology';
+$lang['FOURTH_WORK'] = 'Wish Buthan Travel';
+$lang['FOURTH_WORK_SHORT_DSC'] = 'Discover, book, visit the Kingdom of Buthan';
+$lang['FOURTH_WORK_CATEGORY'] = 'Tourism';
+$lang['FIFTH_WORK'] = 'Wolfcom Evidence Management Solution';
+$lang['FIFTH_WORK_SHORT_DSC'] = 'Management solution for police worn cameras';
+$lang['FIFTH_WORK_CATEGORY'] = 'Police';
+$lang['SIXTH_WORK'] = 'Z Estate BI Fold Brochure';
+$lang['SIXTH_WORK_SHORT_DSC'] = 'Presentation and Advertising the Company';
+$lang['SIXTH_WORK_CATEGORY'] = 'Marketing';
+?>
